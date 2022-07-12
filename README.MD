@@ -1,6 +1,6 @@
 <h1>Corelab challenge</h1>
 
-<img src="./src/assets/databaseInterface.png"  width="600px" alt="databaseInterface>
+<img src="./src/assets/databaseInterface.png"  width="600px" alt="databaseInterface">
 
 <p>Database Interface</p>
 
